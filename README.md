@@ -1,19 +1,12 @@
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        Rick Arendsen
-      </h1>
-     <p>
-        Full Stack Developer
-      </p>
-    </summary>
-  </ul>
-</div>
+### Hi! I'm Rick Arendsen.
+Currently self-employed as a Full Stack Developer.
 
-**<h3 align="left">Connect with me:</h3>** 
+______
+
+### Let's Connect!
 <p align="left"><a href="https://www.linkedin.com/in/rick-arendsen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
+______
 
 <p align="center">
   
@@ -22,3 +15,4 @@
 ![RikkertTheDeveloper's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=RikkertTheDeveloper&type=languages&theme=default&chart=pie)
 </p>
 
+______
