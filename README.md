@@ -5,7 +5,7 @@
         Rick Arendsen
       </h1>
      <p>
-        Junior Full Stack Developer - Currently Working @ Frontis B.V.
+        Full Stack Developer
       </p>
     </summary>
   </ul>
@@ -15,8 +15,10 @@
 <p align="left"><a href="https://www.linkedin.com/in/rick-arendsen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RikkertTheDeveloper&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RikkertTheDeveloper&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<p align="center">
+  
+![RikkertTheDeveloper's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=RikkertTheDeveloper&type=contributions&theme=default)
+![RikkertTheDeveloper's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=RikkertTheDeveloper&theme=default&chart=bars)
+![RikkertTheDeveloper's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=RikkertTheDeveloper&type=languages&theme=default&chart=pie)
 </p>
 
